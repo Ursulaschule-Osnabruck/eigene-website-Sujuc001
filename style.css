@@ -91,8 +91,8 @@ p{
     color: white;
 
 }
-a{
-    color: white;
+h4{
+  font-size: medium
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
@@ -358,4 +358,8 @@ nav .content .links{
 .dummy-text h2{
   font-size: 45px;
   margin: 5px 0;
+}
+#u7783-2, #u7783-6 {
+  font-family: ubuntu, sans-serif;
+  font-weight: 700;
 }
