@@ -485,9 +485,6 @@ h5{
   text-align: left;
   color: black;
 }
-.text-center{
-color: black;
-}
 h2 {
   font: 24px Open Sans, Arial, Helvetica, sans-serif;
   color: #333333;
@@ -569,4 +566,8 @@ a:hover {
 
 .legal-text {
   margin-right: 16px;
+}
+.werbung img{
+  height: auto;
+  width: auto;
 }
