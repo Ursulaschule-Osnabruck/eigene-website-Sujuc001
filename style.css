@@ -9,7 +9,7 @@ background-color: #fcfcfc;
     box-sizing: border-box;
 }
 footer{
-position: absolute;
+position:fixed;
 bottom: 0;
 left: 0;
 right: 0;
@@ -17,7 +17,7 @@ background: #111;
 height: auto;
 width: 100vw;
 font-family: "Open Sans";
-padding-top: 0px;
+padding-top: -1px;
 color: #fff;
 }
 .footer-content{
@@ -492,61 +492,29 @@ h2 {
 body {
   font-family: 'Open Sans', sans-serif;
   background-color: #F3F5F6;
-  padding-left: 100px;
+  padding-left: 0px;
   padding-right: 100px;
 }
 
 .header-image {
   width: 100%;
-  height: 400px;
+  height: 100px;
   object-fit: cover;
   object-position: 50% 15%;
   display: block;
 }
 
-.headline {
-  color: #831D17;
-  flex: 1;
-}
 
 .image-container {
   background-color: white;
   padding: 16px;
 }
 
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-a {
-  color: #831D17;
-  text-decoration: none;
-  margin-left: 16px;
-  font-weight: 700;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.text-highlight {
-  color: #484846;
-  font-size: 47px;
-}
-
-.text-container {
-  background-color: #DEDEDE;
-  padding: 8px;
-  color: #484846;
-  font-weight: 600;
-}
 
 .maps-container {
   margin-top: 16px;
-  display: flex;
-  justify-content: space-between;
+  display:flex;
 }
 
 .maps-right {
@@ -556,8 +524,8 @@ a:hover {
 
 .maps-frame {
   border: 0;
-  height: 350px;
-  width: 70%;
+  height: 150px;
+  width: 40%;
 }
 
 .legal-content {
@@ -566,8 +534,4 @@ a:hover {
 
 .legal-text {
   margin-right: 16px;
-}
-.werbung img{
-  height: auto;
-  width: auto;
 }
