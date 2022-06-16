@@ -541,3 +541,6 @@ body {
   object-fit: cover;
   display: block;
 }
+.werbung img{
+float: right;
+}
