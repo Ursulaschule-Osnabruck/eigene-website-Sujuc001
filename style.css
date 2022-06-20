@@ -83,9 +83,7 @@ color: #fff;
     opacity: .4;
     font-weight: 200;
 }
-p{
-    color: white;
-}
+
 .impressum{
     text-align: center;
     color: white;
@@ -485,6 +483,7 @@ h5{
 h2 {
   font: 24px Open Sans, Arial, Helvetica, sans-serif;
   color: #333333;
+
 }
 body {
   font-family: 'Open Sans', sans-serif;
@@ -541,6 +540,21 @@ body {
 .werbung img{
 float: right;
 }
-.text1 p{
+p{
   padding-left: 240px;
+  color: black;
+}
+#text1{
+  color: #339966;
+}
+#apple{
+  color: black;
+}
+#grundlage1{
+  padding-left: 160px;
+  font-size: large;
+  color: #333333;
+}
+#grundlage2{
+  padding-left: 480px;
 }
