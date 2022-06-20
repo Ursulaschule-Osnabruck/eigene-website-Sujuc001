@@ -541,3 +541,6 @@ body {
 .werbung img{
 float: right;
 }
+.text1 p{
+  padding-left: 240px;
+}
