@@ -478,9 +478,6 @@ a{
   
 
 }
-.Mackurs{
-  text-align: right;
-}
 h5{
   text-align: left;
   color: black;
@@ -491,7 +488,7 @@ h2 {
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #F3F5F6;
+  background-color: white;
   padding-left: 0px;
   padding-right: 100px;
 }
