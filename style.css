@@ -382,7 +382,7 @@ body {
 }
 section {
   height: 100vh;
-  width: 100%;
+  width: 110%;
   background-color: rgb(214, 226, 236);
   display: flex;
   align-items: center;
@@ -509,7 +509,7 @@ body {
 
 
 .maps-container {
-  margin-top: 16px;
+  margin-top: 40px;
   display:flex;
 }
 
@@ -520,7 +520,8 @@ body {
 
 .maps-frame {
   border: 0;
-  height: 150px;
+  height: 250px;
+  margin-left: 100px;
   width: 40%;
 }
 
@@ -678,4 +679,38 @@ p{
 
 .icon-send:before {
   content: "\f1d8";
+}
+#kontakt1{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+#map1{
+  color: black;
+  font-size: larger;
+  text-align: left;
+  margin-left: -200px;
+}
+#map2{
+  color: gray;
+  font-size: 20px;
+  text-align: left;
+  margin-left: -200px;
+}
+#infos{
+  color: gray;
+}
+#formular1{
+  color: gray;
+  text-decoration:none;
+}
+h3{
+  color: black;
+  font-size: large;
+}
+#datenschutz1{
+  text-align: center;
+  font-size: larger;
+  text-decoration: underline;
 }
