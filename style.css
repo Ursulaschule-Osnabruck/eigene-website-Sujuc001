@@ -706,8 +706,7 @@ p{
   text-decoration:none;
 }
 h3{
-  color: black;
-  font-size: large;
+  color: white;
 }
 #datenschutz1{
   text-align: center;
@@ -716,4 +715,10 @@ h3{
 }
 #mail{
   color: black;
+}
+#impressum1{
+  text-decoration: none; text-align: center; margin-right: 250px; color:white
+}
+#impressum2{
+  text-decoration: none; text-align: center; margin-right: 60px; color:white
 }
