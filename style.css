@@ -13,7 +13,7 @@ position:fixed;
 bottom: 0;
 left: 0;
 right: 0;
-background: #111;
+background: black;
 height: auto;
 width: 100vw;
 font-family: "Open Sans";
@@ -111,13 +111,11 @@ h4{
   width: 100%;
 }
 .wrapper nav{
-  position: relative;
-  display: flex;
-  max-width: calc(100% - 200px);
-  margin: 0 auto;
+
   height: 70px;
   align-items: center;
   justify-content: space-between;
+  
 }
 nav .content{
   display: flex;
@@ -716,9 +714,10 @@ h3{
 #mail{
   color: black;
 }
-#impressum1{
-  text-decoration: none; text-align: center; margin-right: 250px; color:white
+#impressum{
+ color: white;
 }
-#impressum2{
-  text-decoration: none; text-align: center; margin-right: 60px; color:white
+#impressum02{
+  text-align: right; margin-right: 50px;
 }
+
