@@ -563,6 +563,7 @@ p{
 }
 #punkt1{
   padding-left: 420px;
+  color: gray;
 }
 #grundlage7{
   padding-left: 160px;
@@ -571,13 +572,24 @@ p{
 }
 #punkt2{
   padding-left: 420px;
+  font-size: 20px;
   color: gray;
 }
 #angebot1{
   color: #008000;
 }
 #angebot2{
+  color: black;
   padding-left: 420px;
+  font-size: 20px;
+}
+#angebot3{
+  color: black;
+  padding-left: 480px;
+  font-size: 20px;
+}
+#angebot4{
+  color: #008000;
 }
 /* General button style */
 .btn {
@@ -637,7 +649,7 @@ p{
 .btn-2 {
   background: #2ecc71;
   color: #fff;
-  margin-left: 420px;
+  margin-left: 480px;
 }
 
 .btn-2:hover {
@@ -722,4 +734,11 @@ h3{
 }
 #text2{
   color:limegreen
+}
+#preis{
+  
+}
+#aboutus1{
+  font-size: 30px;
+  text-decoration: none;
 }
